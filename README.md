@@ -2,7 +2,7 @@
 
 1. Add new `user` and define `password` ("rstudio" / "password")
 ```bash
-sudo useradd rstudio
+sudo useradd -m -s /bin/bash rstudio
 ```
 ```bash
 sudo passwd rstudio
