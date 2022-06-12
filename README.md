@@ -1,4 +1,4 @@
-# Install Rstudio Serve in GitHub Codespaces
+# Install Rstudio in GitHub Codespaces
 
 1. Add new `user` and define `password` ("rstudio" / "password")
 ```bash
