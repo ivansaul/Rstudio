@@ -1,6 +1,8 @@
-# Install Rstudio in GitHub Codespaces and Google Colab
+# Install Rstudio in GitHub Codespaces
 
-1. Add new `user` and define `password` ("rstudio" / "password")
+1. First, fork this repositori and edit with codespaces
+2. Inside codespaces open a new terminal and ...
+3. Add new `user` and define `password` ("rstudio" / "password")
 ```bash
 sudo useradd -m -s /bin/bash rstudio
 ```
