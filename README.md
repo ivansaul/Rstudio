@@ -7,7 +7,7 @@ sudo useradd rstudio
 ```bash
 sudo passwd rstudio
 ```
-2. Install `R`, `RStudio Server` and `localtunnel` (Don't forget to update version to latest version)
+2. Install `R`, `RStudio Server` and `localtunnel`.
 ```bash
 sh install.sh
 ```
