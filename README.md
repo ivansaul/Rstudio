@@ -9,7 +9,7 @@ sudo passwd rstudio
 ```
 2. Install `R`, `RStudio Server` and `localtunnel`.
 ```bash
-sh install.sh
+yes | sh install.sh
 ```
 3. To access to the RStudio server:
  - Run localtunnel to tunnel RStudio app port 8787
