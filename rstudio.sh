@@ -1,3 +1,4 @@
+#!/bin/bash
 # Install R and RStudio Server (Don't forget to update version to latest version)
 sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys E298A3A825C0D65DFD57CBB651716619E084DAB9
 sudo add-apt-repository 'deb https://cloud.r-project.org/bin/linux/ubuntu focal-cran40/' 
