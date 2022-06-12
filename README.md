@@ -1,4 +1,4 @@
-# Install Rstudio in GitHub Codespaces
+# Install Rstudio in GitHub Codespaces and Google Colab
 
 1. Add new `user` and define `password` ("rstudio" / "password")
 ```bash
@@ -19,3 +19,6 @@ yes | sh install.sh
  - click on the output link, 
  - click button "Click to Continue" on the "friendly reminder" page,
  - use the username "rstudio" and password "password" you defined at the first step (in this example).
+
+# Install Rstudio in Google Colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GiX_JaaOvG109tVeW5PuiVgwjcD1Tf8g?usp=sharing)
